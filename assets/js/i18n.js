@@ -6,7 +6,7 @@
     'nav.login': 'Login', 'nav.signup': 'Sign up', 'nav.logout': 'Logout', 'nav.profile': 'My Profile',
     'nav.bookNow': 'Book Now', 'nav.account': 'Account', 'nav.myBooking': 'My Booking',
     'nav.quick': 'Quick navigation', 'nav.language': 'Choose language',
-    'nav.languageEnglish': 'English', 'nav.languageSinhala': 'Sinhala', 'nav.languageTamil': 'Tamil',
+   'nav.languageEnglish': 'English', 'nav.languageSinhala': 'Sinhala', 'nav.languageTamil': 'Tamil', 
     'home.title1': 'Your Journey,', 'home.title2': 'Our Priority.',
     'home.subtitle': 'Book bus seats across Sri Lanka in seconds. Pick your exact seat from a live seat map and get your ticket instantly.',
     'home.tripType': 'Trip type', 'home.oneWay': 'One way', 'home.roundTrip': 'Round trip',
